@@ -1,7 +1,7 @@
-# Kyle  
+# bob 
 
 ## Description 
-kyle
+bob
 
 ## Table of Contents
 [Installation](#Installation)
@@ -13,20 +13,20 @@ kyle
 
 ## Installation 
 to install necessary dependencies, run the following command:
-kyle 
+bob
 
 ## Usage 
-kyle
+bob
 
 ## License 
-GPL 3.0
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Contributing 
-kyle
+bob
 
 ## Tests 
-kyl
+bob
 
 ## Questions
-If you have any questions, please contact me directly at kyld 
-Visit my Github [here](https://github.com/kyle)
+If you have any questions, please contact me directly at bob 
+Visit my Github [here](https://github.com/bob)
