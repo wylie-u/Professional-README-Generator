@@ -1,7 +1,7 @@
-# bob 
+# lj 
 
 ## Description 
-bob
+ljl
 
 ## Table of Contents
 [Installation](#Installation)
@@ -13,25 +13,20 @@ bob
 
 ## Installation 
 to install necessary dependencies, run the following command:
-bob
+sdf
 
 ## Usage 
-bob
+fasd
 
 ## License 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing 
-bob
+fsda
 
 ## Tests 
-bob
+asf
 
 ## Questions
-<<<<<<< HEAD
-If you have any questions, please contact me directly at bob 
-Visit my Github [here](https://github.com/bob)
-=======
-If you have any questions, please contact me directly at kyld 
-Visit my Github [here](https://github.com/kyle)
->>>>>>> 20b5674eea9e992b93f8ed42cbd309e5bf19df4e
+If you have any questions, please contact me directly at asf 
+Visit my Github [here](https://github.com/afa)
