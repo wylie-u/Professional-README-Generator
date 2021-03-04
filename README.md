@@ -28,5 +28,10 @@ bob
 bob
 
 ## Questions
+<<<<<<< HEAD
 If you have any questions, please contact me directly at bob 
 Visit my Github [here](https://github.com/bob)
+=======
+If you have any questions, please contact me directly at kyld 
+Visit my Github [here](https://github.com/kyle)
+>>>>>>> 20b5674eea9e992b93f8ed42cbd309e5bf19df4e
