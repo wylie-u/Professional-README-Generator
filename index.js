@@ -1,6 +1,9 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
+// const util  = require('util')
+
+
 
 // TODO: Create an array of questions for user input
 // const questions = [];
@@ -74,8 +77,8 @@ inquirer
     {
         //Contributing
         type: 'input',
-        name: 'contributing',
         message: 'What does the user need to know about contributing to the repo?',
+        name: 'contributing',
 
     },
     {
@@ -101,13 +104,13 @@ inquirer
     }
   ]);
   
-// dont indent readme file
 
 const generateReadme = (answers) => {
 
-//const badge = renderLicenseBadge(answers.license)
 
 return `# ${answers.projectTitle} 
+
+${renderLicenseBadge(answers.license)}
 
 ## Description 
 ${answers.description}
@@ -121,14 +124,14 @@ ${answers.description}
 [Questions](#Questions)
 
 ## Installation 
-to install necessary dependencies, run the following command:
+To install necessary dependencies, run the following command:
 ${answers.installation}
 
 ## Usage 
 ${answers.usage}
 
 ## License 
-${renderLicenseBadge(answers.license)}
+This application is covered under the license ${renderLicenseBadge(answers.license)}
 
 ## Contributing 
 ${answers.contributing}
@@ -138,7 +141,7 @@ ${answers.tests}
 
 ## Questions
 If you have any questions, please contact me directly at ${answers.email} 
-Visit my Github [here](https://github.com/${answers.username})`;
+and visit my Github [here](https://github.com/${answers.username})`;
 }
 
 const init = () => {
@@ -154,10 +157,7 @@ const init = () => {
             console.log(error);
         }
     });
-    // TODO: Create a function to initialize app
-    // function init() {}
- 
-    // Function call to initialize app
+    
 }
 init();
 

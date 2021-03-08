@@ -1,7 +1,9 @@
-# lj 
+# The Titanic 
+
+[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
 ## Description 
-ljl
+The sinking of the Titanic
 
 ## Table of Contents
 [Installation](#Installation)
@@ -12,21 +14,21 @@ ljl
 [Questions](#Questions)
 
 ## Installation 
-to install necessary dependencies, run the following command:
-sdf
+To install necessary dependencies, run the following command:
+none
 
 ## Usage 
-fasd
+learning purposes only 
 
 ## License 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This application is covered under the license [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
 ## Contributing 
-fsda
+will need to research
 
 ## Tests 
-asf
+none
 
 ## Questions
-If you have any questions, please contact me directly at asf 
-Visit my Github [here](https://github.com/afa)
+If you have any questions, please contact me directly at wylieurig@gmail.com 
+and visit my Github [here](https://github.com/wylieurig)
