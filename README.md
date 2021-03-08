@@ -1,34 +1,34 @@
-# The Titanic 
+# README Generator 
 
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description 
-The sinking of the Titanic
+This project is a guide for the user to generate their own readme from the command line. This project features the package, Inquirer from Node.
 
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributing](#Contributing)
-[Tests](#Tests)
-[Questions](#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation 
 To install necessary dependencies, run the following command:
-none
+npm i 
 
 ## Usage 
-learning purposes only 
+repo is for instructional purposes only
 
 ## License 
-This application is covered under the license [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+This application is covered under the license [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contributing 
-will need to research
+n/a
 
 ## Tests 
 none
 
 ## Questions
 If you have any questions, please contact me directly at wylieurig@gmail.com 
-and visit my Github [here](https://github.com/wylieurig)
+and visit my Github [here](https://github.com/wylie-u)
